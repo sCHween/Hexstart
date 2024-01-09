@@ -14,7 +14,7 @@ body {
 }
 
 .yellow {
-  background-image: linear-gradient( 90deg, var(--hex-gradient-3), var(--hex-gradient-4) );
+  background-image: linear-gradient( 90deg, var(--hex-gradient-3), var(--hex-gradient-4) ) !important;
 }
 
 .hexagon {
