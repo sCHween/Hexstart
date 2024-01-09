@@ -4,6 +4,8 @@
   --icon-color: #FFFFFF;
   --hex-gradient-1: #31AFE1;
   --hex-gradient-2: #6ad5ff;
+  --hex-gradient-3: #eec016;
+  --hex-gradient-4: #ddd123;
 }
 
 body {
@@ -12,7 +14,7 @@ body {
 }
 
 .yellow {
-  
+  background-image: linear-gradient( 90deg, var(--hex-gradient-3), var(--hex-gradient-4) );
 }
 
 .hexagon {
